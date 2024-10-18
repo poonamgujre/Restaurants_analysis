@@ -63,7 +63,7 @@ Task 9: Restaurant Reviews
 
 Task 10: Votes Analysis
   1.Identified restaurants with the highest and lowest vote counts.
-  2.Analyzed correlation between vote counts and ratings.
+2.Analyzed correlation between vote counts and ratings.
   
 Task 11: Price Range vs. Online Delivery and Table Booking
   1.Analyzed relationships between price range and the availability of online delivery and table booking.
